@@ -3,9 +3,6 @@ created by Dr. William H. Wolberg. The dataset was created to assist researchers
 machine learning practitioners in classifying tumors as either malignant(cancerous) or
 benign (non-cancerous).
 
-Link: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-
-data/download?datasetVersionNumber=2&ref=hackernoon.com
-
 Tools required:
 R Studio, R Compiler
 
